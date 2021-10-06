@@ -50,3 +50,18 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Mac files
+.DS_Store
+
+# GBDK
+gbdk/
+
+# Compiled Gameboy files
+*.asm
+*.gb
+*.ihx
+*.lst
+*.noi
+*.sav
+*.sym
