@@ -28,10 +28,10 @@ Place the `gbdk` folder in a location you will remember as you may need to updat
 1. Navigate to the folder that you want to compile.
 2. Run the command `./make.bat`.
 
-### Gameboy emulator
+### Development tools
 
-* [mGBA](https://mgba.io/downloads.html)
-
-### Tutorial followed
-
-* https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo
+* Tutorial: [YouTube playlist](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo)
+* GBDK: [Github](https://github.com/gbdk-2020/gbdk-2020)
+* Gameboy emulator: [mGBA](https://mgba.io/downloads.html)
+* Tile editor: [Gameboy Tile Designer](http://www.devrs.com/gb/hmgd/gbtd.html) (Windows only)
+* Map editor: [Gameboy Map Builder](http://www.devrs.com/gb/hmgd/gbmb.html) (Windows only)
